@@ -8,7 +8,7 @@
 	<div class="resume">
 		<div class="left">
 			<div class="profile">
-				<img src="mypic.jpg" alt="my profile picture">
+				<img src="images/mypic.jpg" alt="my profile picture">
 			</div>
 			<div class="content"> 
 				<div class="resume_item resume_info">
@@ -129,12 +129,7 @@
 				<div class="title">
 					<p class="bold">ABOUT ME</p>
 				</div>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<p>Seeking a challenging career with a progressive organization that provides an opportunity to showcase and improve my technical skills and ability in the field of information technology</p>
 			</div>
 			<div class="resume_item resume_work">
 				<div class="title">
@@ -142,39 +137,47 @@
 				</div>
 				<ul>
 					<li>
-						<div class="date">2013-2015 </div>
+						<div class="date">PROJECT ASSISTANT, 10/2018 TO 05/2020</div>
 						<div class="info">
-							<p class="semi_bold">Lorem ipsum dolor sit amet,</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation</p>
+							<p class="semi_bold">De-UNITED FOODS INDUSTRIES LIMITED </p>
+							<p>	Video Content Analysis</br>
+							Maintaining of Assets<br>
+							Collection, Arrangement and Distribution of Data<br>
+							Solving Various Problems Faced by the Project<br>
+								</p>
 						</div>
 					</li>
 						<li>
-						<div class="date">2013-2015 </div>
+						<div class="date">Supervisor, 2015 to current</div>
 						<div class="info">
-							<p class="semi_bold">Lorem ipsum dolor sit amet,</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation</p>
+							<p class="semi_bold">Delamp’s Place (bet9ja) </p>
+							<p>	Directed calls to appropriate individuals and departments.<br>
+								Learned, referenced and applied product knowledge information.<br>
+								Developed reputation as an efficient service provider with high levels of accuracy.<br>
+								Served as liaison for customers, management and sales team.<br>
+							</p>
 						</div>
 					</li>
 						<li>
-						<div class="date">2013-2015 </div>
+						<div class="date">Sales Representative, 10/2014 to 11/2015 </div>
 						<div class="info">
-							<p class="semi_bold">Lorem ipsum dolor sit amet,</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation</p>
+							<p class="semi_bold">White Hope Logistics</p>
+							<p>
+									Used a consultative sales approach to understand and meet customer needs.<br>
+									Collected and processed payments.<br>
+								Contacted satisfied customers to offer additional services.<br>
+
+							</p>
 						</div>
 					</li>
 						<li>
-						<div class="date">2013-2015 </div>
+						<div class="date">Supervisor, 02/2011 to 04/2014 </div>
 						<div class="info">
-							<p class="semi_bold">Lorem ipsum dolor sit amet,</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation</p>
+							<p class="semi_bold">High Lamp Farms </p>
+							<p>	Oversaw the loading and unloading of packages in the warehouse.<br>
+								Marked clearance items down and moved the merchandise to its proper area of the store.<br>
+								Resolved all customer complaints in a professional manner while prioritizing customer satisfaction.<br>
+							</p>
 						</div>
 					</li>
 				</ul>
@@ -186,37 +189,20 @@
 				</div>
 				<ul>
 						<li>
-						<div class="date">2013-2015 </div>
+						<div class="date">2017-2021 </div>
 						<div class="info">
 							<p class="semi_bold">NATIONAL OPEN UNIVERSITY OF NIGERAI,</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
-				quis nostrud exercitation</p>
+							<p>BSC ECONOMICS</p>
 						</div>
 					</li>
 					<li>
 						<div class="date">2013-2015 </div>
 						<div class="info">
-							<p class="semi_bold">NATIONAL OPEN UNIVERSITY OF NIGERAI,</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
-				quis nostrud exercitation</p>
+							<p class="semi_bold">Aptech Computer Institute</p>
+							<p>Advanced Diploma: Software Engineering</p>
 						</div>
 					</li>
-					<li>
-						<div class="date">2013-2015 </div>
-						<div class="info">
-							<p class="semi_bold">NATIONAL OPEN UNIVERSITY OF NIGERAI,</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
-				quis nostrud exercitation</p>
-						</div>
-					</li>
-					<li>
-						<div class="date">2013-2015 </div>
-						<div class="info">
-							<p class="semi_bold">NATIONAL OPEN UNIVERSITY OF NIGERAI,</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
-				quis nostrud exercitation</p>
-						</div>
-					</li>
+					
 				</ul>
 			</div>
 
@@ -227,11 +213,11 @@
 
 
 					<ul>
-						<li><img src="hng.png" alt="hng.png" width="100%" height="100%">
+						<li><img src="images/hng.png" alt="hng.png" width="100%" height="100%">
 						</li>
-						<li><img src="i4g.png" alt="i4g.png" width="100%" height="100%">
+						<li><img src="images/i4g.png" alt="i4g.png" width="100%" height="100%">
 						</li>
-						<li><img src="zuri.png" alt="zuri.png" width="100%" height="100%">
+						<li><img src="images/zuri.png" alt="zuri.png" width="100%" height="100%">
 						</li>
 
 					</ul>

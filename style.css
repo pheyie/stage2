@@ -18,11 +18,15 @@ body{
 	font-weight: 700;
 	font-size: 20px;
 	text-transform: uppercase; 
+
+
 }
 
 .semi_bold{
 	font-weight: 500;
 	font-size: 16px; 
+	 color: black !important;
+	 padding-bottom: 5px;
 }
 .resume{
 	width: 800px;
@@ -62,6 +66,7 @@ padding: 0 25px;
 }
 .resume .left .regular{
 	color: #b1eaff;
+	
 }
 
 .resume .left .resume_item:last-child,
