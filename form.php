@@ -1,6 +1,6 @@
 <?php
 
-	$pdo = new PDO('mysql:host=localhost;port=3306;dbname=hng','root','');
+	$pdo = new PDO('mysql:host=remotemysql.com;port=3306;dbname=YzbUB2A53n','YzbUB2A53n','I4aXM36Fnl');
     $pdo->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION); 
  
  	  if (isset($_POST['submit']) && !empty($_POST['fullname']) && !empty($_POST['message']) && !empty($_POST['email'])&& !empty($_POST['phonenumber']) ){
